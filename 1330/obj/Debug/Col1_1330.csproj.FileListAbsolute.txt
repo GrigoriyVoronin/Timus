@@ -1,0 +1,7 @@
+C:\Users\molch\Desktop\синх2019\С#\остальное\Col1_1330\bin\Debug\Col1_1330.exe.config
+C:\Users\molch\Desktop\синх2019\С#\остальное\Col1_1330\bin\Debug\Col1_1330.exe
+C:\Users\molch\Desktop\синх2019\С#\остальное\Col1_1330\bin\Debug\Col1_1330.pdb
+C:\Users\molch\Desktop\синх2019\С#\остальное\Col1_1330\obj\Debug\Col1_1330.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх2019\С#\остальное\Col1_1330\obj\Debug\Col1_1330.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\синх2019\С#\остальное\Col1_1330\obj\Debug\Col1_1330.exe
+C:\Users\molch\Desktop\синх2019\С#\остальное\Col1_1330\obj\Debug\Col1_1330.pdb

@@ -1,0 +1,7 @@
+C:\Users\molch\Desktop\синх2019\С#\остальное\1490_Arr7\bin\Debug\1490_Arr7.exe.config
+C:\Users\molch\Desktop\синх2019\С#\остальное\1490_Arr7\bin\Debug\1490_Arr7.exe
+C:\Users\molch\Desktop\синх2019\С#\остальное\1490_Arr7\bin\Debug\1490_Arr7.pdb
+C:\Users\molch\Desktop\синх2019\С#\остальное\1490_Arr7\obj\Debug\1490_Arr7.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх2019\С#\остальное\1490_Arr7\obj\Debug\1490_Arr7.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\синх2019\С#\остальное\1490_Arr7\obj\Debug\1490_Arr7.exe
+C:\Users\molch\Desktop\синх2019\С#\остальное\1490_Arr7\obj\Debug\1490_Arr7.pdb

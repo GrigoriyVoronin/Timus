@@ -1,0 +1,7 @@
+C:\Users\molch\Desktop\синх2019\С#\остальное\1484Kino\bin\Debug\1484Kino.exe.config
+C:\Users\molch\Desktop\синх2019\С#\остальное\1484Kino\bin\Debug\1484Kino.exe
+C:\Users\molch\Desktop\синх2019\С#\остальное\1484Kino\bin\Debug\1484Kino.pdb
+C:\Users\molch\Desktop\синх2019\С#\остальное\1484Kino\obj\Debug\1484Kino.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх2019\С#\остальное\1484Kino\obj\Debug\1484Kino.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\синх2019\С#\остальное\1484Kino\obj\Debug\1484Kino.exe
+C:\Users\molch\Desktop\синх2019\С#\остальное\1484Kino\obj\Debug\1484Kino.pdb

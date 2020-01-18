@@ -1,0 +1,6 @@
+C:\Users\molch\Desktop\синх2019\С#\Rec4_1603_2\bin\Debug\Rec4_1603_2.exe.config
+C:\Users\molch\Desktop\синх2019\С#\Rec4_1603_2\bin\Debug\Rec4_1603_2.exe
+C:\Users\molch\Desktop\синх2019\С#\Rec4_1603_2\bin\Debug\Rec4_1603_2.pdb
+C:\Users\molch\Desktop\синх2019\С#\Rec4_1603_2\obj\Debug\Rec4_1603_2.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх2019\С#\Rec4_1603_2\obj\Debug\Rec4_1603_2.exe
+C:\Users\molch\Desktop\синх2019\С#\Rec4_1603_2\obj\Debug\Rec4_1603_2.pdb

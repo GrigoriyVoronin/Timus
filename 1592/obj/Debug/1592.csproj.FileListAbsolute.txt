@@ -1,0 +1,6 @@
+C:\Users\molch\Desktop\синх\С#\остальное\1592\bin\Debug\1592.exe.config
+C:\Users\molch\Desktop\синх\С#\остальное\1592\bin\Debug\1592.exe
+C:\Users\molch\Desktop\синх\С#\остальное\1592\bin\Debug\1592.pdb
+C:\Users\molch\Desktop\синх\С#\остальное\1592\obj\Debug\1592.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх\С#\остальное\1592\obj\Debug\1592.exe
+C:\Users\molch\Desktop\синх\С#\остальное\1592\obj\Debug\1592.pdb

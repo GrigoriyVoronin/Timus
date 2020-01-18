@@ -1,0 +1,7 @@
+C:\Users\molch\Desktop\синх2019\С#\остальное\Arr6_1139\bin\Debug\Arr6_1139.exe.config
+C:\Users\molch\Desktop\синх2019\С#\остальное\Arr6_1139\bin\Debug\Arr6_1139.exe
+C:\Users\molch\Desktop\синх2019\С#\остальное\Arr6_1139\bin\Debug\Arr6_1139.pdb
+C:\Users\molch\Desktop\синх2019\С#\остальное\Arr6_1139\obj\Debug\Arr6_1139.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх2019\С#\остальное\Arr6_1139\obj\Debug\Arr6_1139.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\синх2019\С#\остальное\Arr6_1139\obj\Debug\Arr6_1139.exe
+C:\Users\molch\Desktop\синх2019\С#\остальное\Arr6_1139\obj\Debug\Arr6_1139.pdb
